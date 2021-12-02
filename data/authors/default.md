@@ -1,16 +1,19 @@
 ---
-name: Tails Azimuth
+name: zman-1x1
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Student
+company: Parul University
+email: Saicharankandukuri1x1@gmail.com
+twitter: https://twitter.com/AtonZman1x1
+linkedin: https://www.linkedin.com/in/kandukuri-saicharan-47039121a/
+github: https://github.com/saicharankandukuri
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+saicharankandukuri also know as zman/zman-1x1 is a student at parul university. and he is a developer who instrested in linux and open source. and a guy who tries to make his life easy but it turn out easy for everyone.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+worked on projects:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- [UDROID](https://github.com/RandomCoderOrg/ubuntu-on-android)
+- [fs-cook](https://github.com/RandomCoderOrg/fs-cook)
+
+> visit my github for more projects
