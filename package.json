@@ -42,7 +42,7 @@
     "unist-util-visit": "^4.1.0"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "12.0.3",
+    "@next/bundle-analyzer": "12.0.4",
     "@svgr/webpack": "^5.5.0",
     "cross-env": "^7.0.3",
     "dedent": "^0.7.0",
