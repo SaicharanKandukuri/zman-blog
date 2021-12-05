@@ -9,7 +9,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'saicharankandukuri1x1@gmail.com',
   github: 'https://github.com/SaicharanKandukuri',
   twitter: 'https://twitter.com/AtonZman1x1',
   youtube: 'https://www.youtube.com/channel/UCs6MBSp_IJSmAkisxiB1KKw',
