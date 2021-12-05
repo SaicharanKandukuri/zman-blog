@@ -1,6 +1,6 @@
 ---
 title: zman
-date: '2021-02-12'
+date: '2021-12-02'
 tags: [zman]
 summary: blog
 ---
