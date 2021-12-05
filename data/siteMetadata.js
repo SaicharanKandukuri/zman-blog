@@ -17,8 +17,8 @@ const siteMetadata = {
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
-    plausibleDataDomain: 'zman-blog.vercel.app', // e.g. tailwind-nextjs-starter-blog.vercel.app
-    simpleAnalytics: true, // true or false
+    plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    simpleAnalytics: false, // true or false
     googleAnalyticsId: process.env.ANALYTICS_ID, // e.g. UA-000000-2 or G-XXXXXXX
   },
   newsletter: {
