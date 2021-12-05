@@ -4,23 +4,22 @@ const siteMetadata = {
   headerTitle: 'ZMAN BLOG',
   description: 'blog of a devoloper/geek/artist',
   language: 'en-us',
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'zman-blog.vercel.app',
+  siteRepo: 'https://github.com/SaicharanKandukuri/zman-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  github: 'https://github.com/SaicharanKandukuri',
+  twitter: 'https://twitter.com/AtonZman1x1',
+  youtube: 'https://youtube.com/UCs6MBSp_IJSmAkisxiB1KKw',
+  linkedin: 'https://www.linkedin.com/kandukuri-saicharan-47039121a',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
-    simpleAnalytics: false, // true or false
-    googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
+    simpleAnalytics: true, // true or false
+    googleAnalyticsId: process.env.ANALYTICS_ID, // e.g. UA-000000-2 or G-XXXXXXX
   },
   newsletter: {
     // supports mailchimp, buttondown, convertkit
