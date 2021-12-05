@@ -12,7 +12,7 @@ const siteMetadata = {
   email: 'address@yoursite.com',
   github: 'https://github.com/SaicharanKandukuri',
   twitter: 'https://twitter.com/AtonZman1x1',
-  youtube: 'https://youtube.com/UCs6MBSp_IJSmAkisxiB1KKw',
+  youtube: 'https://www.youtube.com/channel/UCs6MBSp_IJSmAkisxiB1KKw',
   linkedin: 'https://www.linkedin.com/kandukuri-saicharan-47039121a',
   locale: 'en-US',
   analytics: {
